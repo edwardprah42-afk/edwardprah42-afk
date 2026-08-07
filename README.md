@@ -40,7 +40,7 @@ Aspiring IT professional
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| Keyboarding | MyComputerCareer | [Verify](https://badges.parchment.com/public/assertions/rFYYCHasSwOY9CIdojyHOg?utm_source=url_copy&identity__email=edward.prah42%40gmail.com) | — |
+| Keyboarding | MyComputerCareer | [Verify](https://badges.parchment.com/public/assertions/rFYYCHasSwOY9CIdojyHOg?utm_source=url_copy&identity__email=edward.prah42%40gmail.com) | <img bgdatacy="badge-image-bg-top" class="l-topMatter-x-image ng-star-inserted" width="50" src="https://badges.parchment.com/public/badges/xisvvL1AQIC91SAkqH0oyw/image" alt="Keyboarding badge image" data-cy="badge-image-bg-top"> |
 
 ---
 
