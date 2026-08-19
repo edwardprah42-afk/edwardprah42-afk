@@ -41,7 +41,7 @@ Aspiring IT professional
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
 | Keyboarding | MyComputerCareer | [Verify](https://badges.parchment.com/public/assertions/rFYYCHasSwOY9CIdojyHOg?utm_source=url_copy&identity__email=edward.prah42%40gmail.com) | <img bgdatacy="badge-image-bg-top" class="l-topMatter-x-image ng-star-inserted" width="50" src="https://badges.parchment.com/public/badges/xisvvL1AQIC91SAkqH0oyw/image" alt="Keyboarding badge image" data-cy="badge-image-bg-top"> |
-
+| Pathways Commitment | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/6-dsKaCDRgiAtI2sSTkMkA?utm_source=url_copy&identity__email=edward.prah42%40gmail.com) | <img spacestopmatter-x-infoimage="" class="badgeImage" src="https://badges.parchment.com/public/assertions/6-dsKaCDRgiAtI2sSTkMkA/image" width="50" title="Pathways Commitment badge image" alt="Pathways Commitment badge image"> |
 ---
 
 ## Course Portfolio
